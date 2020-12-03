@@ -1,7 +1,3 @@
-window.RemotePuzzleImageList = {
-    christmas: [
-    ],
-    /*firework: [
-    ]*/
-}
+window.RemotePuzzleImageList = 
+    {"christmas":["https://konggame.github.io/ImagePuzzle/imgs/christmas/pexels-photo-3303619.webp","https://konggame.github.io/ImagePuzzle/imgs/christmas/pexels-photo-3388335.jpg"],"firework":["https://konggame.github.io/ImagePuzzle/imgs/firework/pexels-photo-230895.jpg","https://konggame.github.io/ImagePuzzle/imgs/firework/pexels-photo-3037679.jpg","https://konggame.github.io/ImagePuzzle/imgs/firework/pexels-photo-3823271.jpg","https://konggame.github.io/ImagePuzzle/imgs/firework/pexels-photo-5344847.jpg"]}
 window.postMessage('RemotePuzzleImageLoaded');
